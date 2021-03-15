@@ -1,0 +1,14 @@
+.body-background-gray{
+  background-color: gray;
+  padding: 5%;
+}
+.body-background-white
+{
+  background-color: white;
+}
+
+ @media print {
+  .pagebreak {
+    page-break-before: always;
+  }
+} 
